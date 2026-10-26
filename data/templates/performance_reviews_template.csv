@@ -1,0 +1,3 @@
+employee_id,review_date,performance_rating,goal_completion_percentage,quality_rating,manager_feedback_score
+EMP001,2025-09-30,5.0,100.0,4.2,4.5
+EMP001,2025-12-31,3.0,72.5,3.4,3.0

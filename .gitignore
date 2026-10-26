@@ -1,0 +1,25 @@
+# Python Bytecode and Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit local runtime
+.streamlit/
+
+# OS metadata
+.DS_Store
+Thumbs.db

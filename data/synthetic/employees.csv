@@ -1,0 +1,121 @@
+employee_id,department,job_role,job_level,hire_date,employment_status,work_arrangement,contracted_weekly_hours,hourly_rate
+EMP001,Customer Support,Support Specialist,Junior,2022-08-05,Full-Time,Remote,40.0,31.56
+EMP002,Engineering,Lead Architect,Senior,2025-03-27,Full-Time,On-site,40.0,81.65
+EMP003,Engineering,DevOps Engineer,Junior,2024-05-02,Full-Time,Remote,40.0,30.23
+EMP004,Customer Support,Support Team Lead,Junior,2021-06-27,Part-Time,Remote,20.0,30.91
+EMP005,Product,Technical Writer,Mid,2023-04-26,Full-Time,On-site,40.0,55.2
+EMP006,Customer Support,Senior Support Specialist,Lead,2024-09-23,Full-Time,Remote,40.0,90.4
+EMP007,Engineering,DevOps Engineer,Mid,2021-07-18,Full-Time,Hybrid,40.0,47.6
+EMP008,Customer Support,Senior Support Specialist,Senior,2022-10-14,Full-Time,Remote,40.0,76.35
+EMP009,Engineering,Senior Software Engineer,Senior,2025-02-24,Full-Time,On-site,40.0,79.55
+EMP010,Engineering,DevOps Engineer,Junior,2024-10-13,Full-Time,Hybrid,40.0,35.4
+EMP011,Customer Support,Support Specialist,Mid,2024-07-21,Full-Time,Remote,40.0,47.48
+EMP012,Engineering,Software Engineer,Senior,2023-10-27,Full-Time,Hybrid,40.0,79.14
+EMP013,Operations,Operations Analyst,Senior,2021-06-13,Full-Time,Remote,40.0,82.26
+EMP014,Product,Product Owner,Junior,2024-03-20,Full-Time,Remote,40.0,37.3
+EMP015,Product,UI/UX Designer,Mid,2023-12-01,Part-Time,Hybrid,20.0,55.83
+EMP016,Engineering,QA Engineer,Mid,2022-10-01,Full-Time,Remote,40.0,48.03
+EMP017,Marketing,Content Strategist,Mid,2025-05-01,Full-Time,Remote,40.0,54.07
+EMP018,Customer Support,Support Specialist,Junior,2022-05-09,Full-Time,Hybrid,40.0,38.8
+EMP019,Product,Product Owner,Senior,2023-10-29,Full-Time,Remote,40.0,73.33
+EMP020,Marketing,Growth Marketer,Junior,2021-06-30,Full-Time,Remote,40.0,32.28
+EMP021,Customer Support,Escalation Engineer,Mid,2022-01-30,Full-Time,Hybrid,40.0,51.26
+EMP022,Engineering,QA Engineer,Mid,2023-10-11,Contractor,Remote,40.0,52.78
+EMP023,Product,Product Manager,Junior,2024-05-20,Contractor,Remote,40.0,34.97
+EMP024,Engineering,Software Engineer,Manager,2023-09-06,Full-Time,Hybrid,40.0,101.54
+EMP025,Engineering,Software Engineer,Senior,2022-06-08,Full-Time,Remote,40.0,76.06
+EMP026,Customer Support,Support Team Lead,Senior,2025-04-04,Full-Time,Hybrid,40.0,74.41
+EMP027,Sales,Sales Development Rep,Mid,2023-07-15,Full-Time,Remote,40.0,52.62
+EMP028,Product,UI/UX Designer,Mid,2022-12-24,Full-Time,Hybrid,40.0,57.14
+EMP029,Engineering,DevOps Engineer,Lead,2024-02-01,Contractor,Remote,40.0,98.53
+EMP030,Engineering,Senior Software Engineer,Mid,2025-03-14,Full-Time,Hybrid,40.0,52.94
+EMP031,Engineering,DevOps Engineer,Mid,2022-05-09,Full-Time,Remote,40.0,50.24
+EMP032,Operations,Operations Manager,Lead,2025-06-12,Full-Time,Hybrid,40.0,92.1
+EMP033,Engineering,DevOps Engineer,Mid,2022-06-26,Full-Time,Hybrid,40.0,45.08
+EMP034,Engineering,Senior Software Engineer,Mid,2022-05-06,Full-Time,Remote,40.0,55.68
+EMP035,Engineering,Lead Architect,Junior,2021-05-30,Full-Time,Hybrid,40.0,36.58
+EMP036,Customer Support,Escalation Engineer,Mid,2024-04-22,Full-Time,Remote,40.0,59.6
+EMP037,Customer Support,Senior Support Specialist,Lead,2025-07-09,Full-Time,Hybrid,40.0,104.42
+EMP038,Customer Support,Support Specialist,Junior,2023-05-12,Full-Time,Remote,40.0,36.45
+EMP039,Engineering,DevOps Engineer,Mid,2022-08-31,Contractor,Remote,40.0,45.23
+EMP040,Sales,Account Executive,Mid,2023-12-07,Contractor,On-site,40.0,49.42
+EMP041,Customer Support,Support Team Lead,Mid,2021-11-27,Full-Time,Hybrid,40.0,59.04
+EMP042,Product,Technical Writer,Junior,2023-11-18,Full-Time,On-site,40.0,31.4
+EMP043,Customer Support,Senior Support Specialist,Mid,2022-07-04,Full-Time,Hybrid,40.0,50.39
+EMP044,Engineering,Senior Software Engineer,Senior,2023-01-27,Full-Time,Remote,40.0,65.1
+EMP045,Product,Technical Writer,Senior,2024-03-11,Full-Time,Remote,40.0,82.73
+EMP046,Engineering,Senior Software Engineer,Junior,2023-08-09,Full-Time,Remote,40.0,31.55
+EMP047,Sales,Sales Development Rep,Mid,2021-11-08,Full-Time,Remote,40.0,49.55
+EMP048,Customer Support,Support Specialist,Mid,2022-08-24,Full-Time,On-site,40.0,51.86
+EMP049,Marketing,Growth Marketer,Mid,2023-05-05,Full-Time,Remote,40.0,59.54
+EMP050,Product,UI/UX Designer,Senior,2023-04-27,Full-Time,Hybrid,40.0,70.02
+EMP051,Engineering,Software Engineer,Senior,2022-08-19,Contractor,Remote,40.0,69.8
+EMP052,Engineering,Software Engineer,Senior,2023-02-20,Contractor,Hybrid,40.0,76.09
+EMP053,Product,UI/UX Designer,Junior,2025-03-04,Full-Time,Hybrid,40.0,30.14
+EMP054,Engineering,Lead Architect,Junior,2025-05-03,Full-Time,Hybrid,40.0,34.74
+EMP055,Engineering,Lead Architect,Mid,2021-12-31,Full-Time,Hybrid,40.0,45.72
+EMP056,Sales,Sales Development Rep,Mid,2023-07-05,Contractor,Hybrid,40.0,53.09
+EMP057,Product,Technical Writer,Junior,2024-11-20,Full-Time,Hybrid,40.0,39.4
+EMP058,Customer Support,Senior Support Specialist,Mid,2021-04-19,Full-Time,Hybrid,40.0,59.12
+EMP059,Customer Support,Support Specialist,Senior,2022-09-03,Full-Time,Remote,40.0,67.02
+EMP060,Engineering,QA Engineer,Senior,2023-08-09,Full-Time,Remote,40.0,81.9
+EMP061,Engineering,Senior Software Engineer,Mid,2022-04-03,Full-Time,Remote,40.0,59.05
+EMP062,Engineering,Software Engineer,Senior,2023-07-06,Full-Time,Remote,40.0,76.37
+EMP063,Customer Support,Support Team Lead,Mid,2022-12-01,Full-Time,Hybrid,40.0,58.01
+EMP064,Customer Support,Escalation Engineer,Mid,2021-05-09,Full-Time,Remote,40.0,50.67
+EMP065,Customer Support,Escalation Engineer,Senior,2021-11-08,Full-Time,Remote,40.0,66.07
+EMP066,Sales,Sales Operations Lead,Junior,2024-05-07,Contractor,Hybrid,40.0,34.83
+EMP067,Customer Support,Escalation Engineer,Mid,2022-07-09,Full-Time,Hybrid,40.0,48.19
+EMP068,Sales,Account Executive,Junior,2022-09-04,Part-Time,On-site,20.0,30.56
+EMP069,Operations,Operations Analyst,Mid,2023-10-17,Contractor,Hybrid,40.0,57.55
+EMP070,Marketing,Growth Marketer,Junior,2022-05-01,Full-Time,Hybrid,40.0,37.06
+EMP071,Engineering,Lead Architect,Junior,2021-06-07,Full-Time,On-site,40.0,32.37
+EMP072,Marketing,Content Strategist,Senior,2022-08-07,Full-Time,Hybrid,40.0,72.56
+EMP073,Product,Product Owner,Lead,2025-06-27,Full-Time,Remote,40.0,100.13
+EMP074,Customer Support,Escalation Engineer,Junior,2023-04-29,Full-Time,Hybrid,40.0,36.81
+EMP075,Engineering,Software Engineer,Mid,2021-10-12,Full-Time,Hybrid,40.0,51.55
+EMP076,Operations,Operations Analyst,Manager,2023-05-13,Full-Time,Hybrid,40.0,129.79
+EMP077,Engineering,QA Engineer,Senior,2021-08-01,Full-Time,Hybrid,40.0,78.91
+EMP078,Customer Support,Support Specialist,Senior,2022-01-30,Contractor,Remote,40.0,70.62
+EMP079,Sales,Sales Development Rep,Mid,2023-10-07,Full-Time,Remote,40.0,54.7
+EMP080,Customer Support,Escalation Engineer,Mid,2023-08-04,Full-Time,Remote,40.0,51.8
+EMP081,Engineering,Software Engineer,Mid,2024-05-01,Full-Time,Remote,40.0,58.66
+EMP082,Operations,Senior Process Coordinator,Mid,2023-08-27,Full-Time,Remote,40.0,58.99
+EMP083,Marketing,Content Strategist,Junior,2022-10-24,Full-Time,Hybrid,40.0,39.87
+EMP084,Engineering,Lead Architect,Senior,2022-03-13,Contractor,Hybrid,40.0,81.77
+EMP085,Customer Support,Support Team Lead,Junior,2024-06-26,Full-Time,On-site,40.0,38.13
+EMP086,Sales,Sales Development Rep,Lead,2022-09-23,Full-Time,On-site,40.0,111.24
+EMP087,Engineering,Software Engineer,Junior,2025-06-15,Full-Time,Remote,40.0,38.78
+EMP088,Operations,Senior Process Coordinator,Mid,2022-08-05,Full-Time,Hybrid,40.0,52.14
+EMP089,Operations,Senior Process Coordinator,Lead,2022-08-23,Contractor,Remote,40.0,109.8
+EMP090,Customer Support,Support Team Lead,Junior,2022-03-23,Full-Time,Hybrid,40.0,38.05
+EMP091,Marketing,Growth Marketer,Mid,2025-04-29,Full-Time,Hybrid,40.0,46.37
+EMP092,Operations,Operations Analyst,Mid,2022-11-25,Contractor,Remote,40.0,52.85
+EMP093,Product,Product Manager,Junior,2025-02-02,Full-Time,Hybrid,40.0,30.66
+EMP094,Engineering,Lead Architect,Mid,2025-04-01,Full-Time,Remote,40.0,46.14
+EMP095,Engineering,QA Engineer,Junior,2021-05-14,Full-Time,Hybrid,40.0,34.12
+EMP096,Marketing,Marketing Specialist,Senior,2025-06-05,Full-Time,Remote,40.0,68.38
+EMP097,Engineering,Lead Architect,Junior,2023-04-20,Full-Time,Hybrid,40.0,32.06
+EMP098,Customer Support,Senior Support Specialist,Mid,2022-08-04,Full-Time,Hybrid,40.0,55.32
+EMP099,Customer Support,Support Team Lead,Lead,2021-03-22,Full-Time,On-site,40.0,92.11
+EMP100,Customer Support,Escalation Engineer,Junior,2023-11-05,Contractor,Remote,40.0,37.6
+EMP101,Customer Support,Senior Support Specialist,Senior,2024-02-26,Full-Time,Remote,40.0,78.74
+EMP102,Marketing,Marketing Specialist,Mid,2022-01-15,Full-Time,Hybrid,40.0,48.64
+EMP103,Engineering,Lead Architect,Junior,2022-09-07,Full-Time,Remote,40.0,33.27
+EMP104,Engineering,Software Engineer,Mid,2025-07-11,Full-Time,Hybrid,40.0,52.48
+EMP105,Engineering,Senior Software Engineer,Mid,2021-10-12,Full-Time,Remote,40.0,50.06
+EMP106,Marketing,Growth Marketer,Junior,2024-09-24,Part-Time,Hybrid,20.0,32.37
+EMP107,Engineering,DevOps Engineer,Lead,2021-07-27,Full-Time,Remote,40.0,112.42
+EMP108,Engineering,QA Engineer,Junior,2024-12-19,Part-Time,Remote,20.0,33.98
+EMP109,Sales,Sales Operations Lead,Senior,2023-03-08,Full-Time,Hybrid,40.0,81.42
+EMP110,Product,UI/UX Designer,Mid,2021-08-07,Full-Time,Remote,40.0,59.52
+EMP111,Product,Technical Writer,Mid,2025-04-14,Full-Time,Hybrid,40.0,56.52
+EMP112,Engineering,QA Engineer,Lead,2023-04-13,Full-Time,Remote,40.0,98.42
+EMP113,Engineering,Senior Software Engineer,Manager,2025-07-23,Full-Time,Remote,40.0,104.16
+EMP114,Engineering,Software Engineer,Mid,2021-04-14,Full-Time,Remote,40.0,58.94
+EMP115,Operations,Senior Process Coordinator,Junior,2024-07-25,Part-Time,Remote,20.0,33.79
+EMP116,Sales,Sales Development Rep,Junior,2021-11-01,Full-Time,Hybrid,40.0,32.02
+EMP117,Engineering,Lead Architect,Junior,2023-04-07,Full-Time,Hybrid,40.0,33.59
+EMP118,Marketing,Content Strategist,Senior,2021-12-25,Full-Time,On-site,40.0,77.48
+EMP119,Customer Support,Support Team Lead,Mid,2023-10-10,Full-Time,Remote,40.0,52.98
+EMP120,Engineering,QA Engineer,Mid,2025-01-19,Contractor,Hybrid,40.0,50.02

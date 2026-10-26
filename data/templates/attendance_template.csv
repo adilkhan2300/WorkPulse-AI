@@ -1,0 +1,3 @@
+employee_id,reporting_date,scheduled_workdays,days_absent,unplanned_absence_days,leave_days
+EMP001,2025-08-01,5,0,0,0
+EMP001,2025-08-08,5,0,0,0

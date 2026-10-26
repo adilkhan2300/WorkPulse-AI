@@ -1,0 +1,3 @@
+employee_id,department,job_role,job_level,hire_date,employment_status,work_arrangement,contracted_weekly_hours,hourly_rate
+EMP001,Customer Support,Support Specialist,Junior,2022-08-05,Full-Time,Remote,40.0,31.56
+EMP002,Engineering,Lead Architect,Senior,2025-03-27,Full-Time,On-site,40.0,81.65
